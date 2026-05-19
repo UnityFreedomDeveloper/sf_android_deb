@@ -1,7 +1,7 @@
 {
-    "name": "com.freedomdeveloper.sf2_android",
+    "name": "com.freedomdeveloper.sf2_android_deb",
     "version": "2.0.0",
-    "displayName": "stockfish_android",
+    "displayName": "stockfish_android_deb",
     "description": "",
     "unity": "2019.4",
     "author": {
